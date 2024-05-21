@@ -1,0 +1,55 @@
+.card-product-img1{
+    background-image: url(../imag/box_img/box1_image.jpg);
+}
+.card-product-img2{
+    background-image: url(../imag/box_img/box2_image.jpg);
+}
+.card-product-img3{
+    background-image: url(../imag/box_img/box3_image.jpg);
+}
+.card-product-img4{
+    background-image: url(../imag/box_img/box4_image.jpg);
+    background-position-y: 20px;
+    background-position-x:-10px ;
+}
+.card-product-img8{
+    background-image: url(../imag/box_img/box8_image.jpg);
+}
+.card-product-img5{
+    background-image: url(../imag/box_img/box5_image.jpg);
+}
+.card-product-img6{
+    background-image: url(../imag/box_img/box6_image.jpg);
+}
+.card-product-img7{
+    background-image: url(../imag/box_img/box7_image.jpg);
+    background-position-y: 20px;
+    background-position-x:-10px ;
+}
+.card-product-img9{
+    background-image: url(../imag/box_img/box9_image.jpg);
+   
+}
+.card-product-img10{
+    background-image: url(../imag/box_img/box10_image.jpg);
+    
+}
+.card-product-img11{
+    background-image: url(../imag/box_img/box11_image.jpg);
+ 
+}
+.card-product-img12{
+    background-image: url(../imag/box_img/box12_image.jpg);
+    background-position-y: 20px;
+    background-position-x:-10px ;
+}
+.card-product-title{
+    font-size: 0.75rem;
+    padding-top: 2px;
+    transition: all 0.2s ease;
+}
+.card-product:hover .card-product-title{
+    font-weight: bold;
+   transform: scale(1.1);
+
+}
